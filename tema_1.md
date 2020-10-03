@@ -6,7 +6,7 @@
 
 Estoy consultando la página [infoautonomos](https://www.infoautonomos.com/contabilidad/tablas-de-amortizacion-para-los-bienes-de-una-empresa/)
 
-![](tabla.png)
+![](img/tabla.png)
 La tabla viene acotada en cuantos años máximos en los que se puede amortizar un bien, y el %máximo que podemos aplicar a la hora de amortizar un bien.
 
 En nuestro caso tenemos:
@@ -62,17 +62,17 @@ Si no lista nada, entonces el procesador no tiene la funcionalidad o la tiene de
 Primero voy a ver el modelo de procesador que tengo:
 
 **Modelo de procesador** 
-![](modelo_proc.png)
+![](img/modelo_proc.png)
 
 Si buscamos ejecutamos el comando obtengo:
-![](vmx.png)
+![](img/vmx.png)
 Como vemos mi ordenador si tiene la capacidad de virtualización por hardware.
 
 En la máquina virtual con  linux 18.04:
-![](vm.png)
+![](img/vm.png)
 
 Si ejecuto el comando en mi telefono:
-![](movil.png)
+![](img/movil.png)
 No lo tiene o no lo tiene activado.
 
 ### Ejercicio 4. Instalar un hipervisor para gestionar máquinas virtuales, más adelante se podrá usar en pruebas y ejercicios. Usar siempre que sea posible un hipervisor que sea software libre.
