@@ -9,9 +9,8 @@ Yo en concreto ya estuve mirando travis y ya estoy dada de alta, cuando cliqué 
 Travis nos da lo mismos pasos que en los apuntes, pero un poco más especifico
 ![](img/pasos_travis.png)
 
- - Activo repositorio de github
+Activo repositorio de github
 ![](img/repo.png)
-
 
 
 ## Ejercicio 10.Configurar integración continua para nuestra aplicación usando Travis o algún otro sitio.
